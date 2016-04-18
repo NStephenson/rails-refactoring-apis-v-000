@@ -1,4 +1,4 @@
-class GithubService
+class GithubService 
 
   attr_reader :access_token
 
